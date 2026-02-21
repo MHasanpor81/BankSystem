@@ -27,6 +27,8 @@ public class App {
         ManagerAuthService managerAuthService = new ManagerAuthService();
         ManagerService managerService = new ManagerService();
         System.out.println("Hello");
+        System.out.println("Welcome to C Bank");
+        System.out.println("Make your Decision");
         while (true) {
             System.out.println("\n--- Bank Menu ---");
             System.out.println("1. Operator (login and operate)");
