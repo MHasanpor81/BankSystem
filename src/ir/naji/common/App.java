@@ -26,6 +26,7 @@ public class App {
         OperatorAuthService operatorAuthService = new OperatorAuthService();
         ManagerAuthService managerAuthService = new ManagerAuthService();
         ManagerService managerService = new ManagerService();
+
         while (true) {
             System.out.println("\n--- Bank Menu ---");
             System.out.println("1. Operator (login and operate)");
