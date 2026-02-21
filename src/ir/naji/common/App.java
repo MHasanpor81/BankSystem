@@ -29,7 +29,7 @@ public class App {
         System.out.println("Hello");
         System.out.println("Welcome to C Bank");
         System.out.println("Make your Decision");
-        System.out.println("Please enter your choice");
+        System.out.println("Hello World");
         while (true) {
             System.out.println("\n--- Bank Menu ---");
             System.out.println("1. Operator (login and operate)");
