@@ -9,6 +9,8 @@ public class Customer extends User {
     private String lastName;
     private List<Account> accounts;
     private boolean approved = false;
+    private Integer age;
+    private String address;
 
     public Customer(String id, String username, String password, String firstName, String lastName, List<Account> accounts) {
         super(username, password);
